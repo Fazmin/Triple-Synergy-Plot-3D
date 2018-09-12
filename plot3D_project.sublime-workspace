@@ -1,0 +1,1223 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"console",
+				"consoleOutraw"
+			],
+			[
+				"data",
+				"datainput"
+			],
+			[
+				"df384",
+				"df384data"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"final",
+				"finalData"
+			],
+			[
+				"cell",
+				"cells"
+			],
+			[
+				"consol",
+				"consoleOut"
+			],
+			[
+				"npa",
+				"npar"
+			],
+			[
+				"e",
+				"edata"
+			],
+			[
+				"co",
+				"colnames"
+			],
+			[
+				"con",
+				"consoleOut"
+			],
+			[
+				"plotou",
+				"plotout"
+			],
+			[
+				"cons",
+				"cons_col"
+			],
+			[
+				"de",
+				"deliminated"
+			],
+			[
+				"mydata",
+				"mydata3"
+			],
+			[
+				"pre",
+				"peractivity"
+			],
+			[
+				"fit",
+				"fitconf"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"fil",
+				"filtered"
+			],
+			[
+				"dataT",
+				"dataOutFinal_table"
+			],
+			[
+				"render",
+				"renderPrint"
+			],
+			[
+				"U",
+				"Uwell"
+			],
+			[
+				"cut",
+				"cutoff"
+			],
+			[
+				"n_pl",
+				"n_platemap_o"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"cu",
+				"cutoff"
+			],
+			[
+				"ned",
+				"new_df_R2_i"
+			],
+			[
+				"raw",
+				"rawic50"
+			],
+			[
+				"ioo",
+				"iooi"
+			],
+			[
+				"colum",
+				"Column"
+			],
+			[
+				"plt",
+				"plt_name"
+			],
+			[
+				"mid",
+				"midSD"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"sc",
+				"scroll"
+			],
+			[
+				"ve",
+				"overflow-y"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"visualize",
+				"visualizer"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"gene",
+				"geneList"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"value",
+				"valuei"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"ar",
+				"aro_terms"
+			],
+			[
+				"r_list",
+				"r_list_line"
+			],
+			[
+				"rlist",
+				"r_list"
+			],
+			[
+				"strain",
+				"strain_name"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"coll",
+				"collect_all"
+			],
+			[
+				"top",
+				"topab"
+			],
+			[
+				"key",
+				"key"
+			],
+			[
+				"per",
+				"percentageString"
+			],
+			[
+				"colle",
+				"collect_all"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"col",
+				"col_parts"
+			],
+			[
+				"st",
+				"strain"
+			],
+			[
+				"pr",
+				"preg_match"
+			],
+			[
+				"iqm",
+				"iqmv"
+			],
+			[
+				"null",
+				"NULL"
+			],
+			[
+				"low",
+				"lowV"
+			],
+			[
+				"mean",
+				"mean_low"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"match",
+				"matchuid_x"
+			],
+			[
+				"comma",
+				"comma-separated-values"
+			],
+			[
+				"get",
+				"getCuttoffPoint"
+			],
+			[
+				"just",
+				"just_vals"
+			],
+			[
+				"iq",
+				"iqmv_m"
+			],
+			[
+				"n",
+				"nIQM"
+			],
+			[
+				"or",
+				"ordered"
+			],
+			[
+				"npla",
+				"n_platemap"
+			],
+			[
+				"nor_da",
+				"nor_data_midq"
+			],
+			[
+				"so",
+				"sortv"
+			],
+			[
+				"this",
+				"thisdata"
+			],
+			[
+				"new",
+				"new_data"
+			],
+			[
+				"rep",
+				"replot_data"
+			],
+			[
+				"nul",
+				"NULL"
+			],
+			[
+				"plot",
+				"plot_val"
+			],
+			[
+				"Null",
+				"NULL"
+			],
+			[
+				"full",
+				"fulldata"
+			],
+			[
+				"df",
+				"df384data"
+			],
+			[
+				"nu",
+				"NULL"
+			],
+			[
+				"my",
+				"my_i"
+			],
+			[
+				"select",
+				"select_controls"
+			],
+			[
+				"Di",
+				"digram"
+			],
+			[
+				"plate",
+				"plateL"
+			],
+			[
+				"all",
+				"all_df"
+			],
+			[
+				"pla",
+				"plateinfo"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"wa",
+				"wac_file"
+			],
+			[
+				"nin",
+				"nincl_angle"
+			],
+			[
+				"rea",
+				"reactive"
+			],
+			[
+				"incline",
+				"incline_type"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"hi",
+				"hi_data"
+			],
+			[
+				"lo",
+				"low_data"
+			],
+			[
+				"ple",
+				"plate_count"
+			],
+			[
+				"preg",
+				"preg_replace"
+			],
+			[
+				"arrayu",
+				"array_unique"
+			],
+			[
+				"fol",
+				"followers"
+			],
+			[
+				"follo",
+				"following"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"folo",
+				"followers"
+			],
+			[
+				"page",
+				"page_content"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"wac",
+				"wac_loader"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"borde",
+				"border-collapse"
+			],
+			[
+				"styl",
+				"style\tTag"
+			],
+			[
+				"tit",
+				"titleo"
+			],
+			[
+				"je",
+				"jquery"
+			],
+			[
+				"scri",
+				"script\tTag"
+			],
+			[
+				"no",
+				"no_plates"
+			],
+			[
+				"no_",
+				"no_plates"
+			],
+			[
+				"line",
+				"lineparts"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server.R",
+			"settings":
+			{
+				"buffer_size": 30117,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Make3DPlotFunctions.R",
+			"settings":
+			{
+				"buffer_size": 20421,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ui.R",
+			"settings":
+			{
+				"buffer_size": 11520,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Rcoding/Beth_WAC96well/Aug5/format/Controls.log",
+			"settings":
+			{
+				"buffer_size": 2746,
+				"line_ending": "Windows",
+				"name": "Assay-A_12,12,ClpP read,08/05/2016 11:08:06"
+			}
+		},
+		{
+			"file": "testData.tab",
+			"settings":
+			{
+				"buffer_size": 1588,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Rcoding/Beth_WAC96well/Aug5/format/Bsub_1-11.log",
+		"/D/Rcoding/Beth_WAC96well/Aug5/format/Clp_1-11.log",
+		"/D/Rcoding/Beth_WAC96well/Aug5/2016-07-28 - Plates 62-71 ClpP/Clp_2016-07-28 8.07.29.log",
+		"/C/Users/Admin/Desktop/UpdraftPlus/backup_2016-08-04-0910_InnovoGENE_Biosciences_Inc_72fa6e97ed8f-wpcore/wp-config.php",
+		"/C/Users/Admin/Desktop/UpdraftPlus/backup_2016-08-04-0910_InnovoGENE_Biosciences_Inc_72fa6e97ed8f-db/backup_2016-08-04-0910_InnovoGENE_Biosciences_Inc_72fa6e97ed8f-db",
+		"/D/Rcoding/Beth_WAC96well/AllData/substract.php",
+		"/N/plot3D/www/flatly_bootstrap.css",
+		"/N/plot3D/server.R",
+		"/N/plot3D/reactives.R",
+		"/N/plot3D/ui.R",
+		"/N/screening-new/redraw_ic50_data.csv",
+		"/C/Users/Admin/Desktop/redraw_ic50_data.csv",
+		"/N/plot3D/ga-allapps.js",
+		"/N/plot3D/ga-plot3D.js",
+		"/C/Users/Admin/Desktop/OCET/index.html",
+		"/C/Users/Admin/Desktop/OCET/Home.html",
+		"/C/Users/Admin/Desktop/index.html",
+		"/D/Rcoding/Beth_WAC96well/ScreenDay1/plates/Assay1_1-1_D1_Clp.csv",
+		"/D/Rcoding/Beth_WAC96well/ScreenDay1/Clp_2016-06-29 12.03.13.log",
+		"/D/Rcoding/Ylan Screen/bioactives5-9/Pili_02-29-2016 11.31.49.log",
+		"/D/Rcoding/Beth_WAC96well/ScreenDay1/plates/Assay1_1-1.csv",
+		"/D/Rcoding/Gregs_Screen_data/Day2/050616_batch2.csv",
+		"/X/clinicaldb/ORF_Krona/rename_files.php",
+		"/N/screening-new/IC50new-master/demo.R",
+		"/N/screening-new/IC50new-master/demo_files/demo2.csv",
+		"/N/screening-new/demo1.csv",
+		"/C/Users/Admin/Desktop/BEths Screen/2016-06-29 - ClpP/Clp_2016-06-29 11.01.11.log",
+		"/N/screening-new/demo_ic50_data.csv",
+		"/C/Users/Admin/Downloads/multicell.tsv",
+		"/N/screening-new/ic50_gregs_data.csv",
+		"/N/screening-new/ic50_dataNew.csv",
+		"/N/screening-new/server.R",
+		"/N/screening-new/Another_ic50.R",
+		"/D/Downloads/Aiseesoft PDF to Excel Converter 3.3.6 Multilingual +Crack/freewaresys.com.txt",
+		"/N/screening-new/ic50.R",
+		"/N/screening-new/IC50new-master/Rpack/ic50class.R",
+		"/N/screening-new/IC50new-master/Rpack/nplm_helpers.R",
+		"/N/screening-new/IC50new-master/Rpack/nplm_main.R",
+		"/C/Users/Admin/Desktop/Pubchem Links.html",
+		"/D/Downloads/Aiseesoft PDF to Excel Converter 3.3.6 Multilingual +Crack/ImPoRTant.txt",
+		"/C/Users/Admin/Desktop/ORF_Krona/C0001_E_coli.html",
+		"/D/Rcoding/Gregs_Screen_data/DayAll-Analysis/060616_batch7 ratio.csv",
+		"/D/Rcoding/Gregs_Screen_data/DayAll-Analysis/060616_batch8_ratio.csv",
+		"/D/Rcoding/Gregs_Screen_data/DayAll-Analysis/060616_batch8.csv",
+		"/D/Rcoding/Gregs_Screen_data/Day2/plates/batch5/p1_batch5.csv",
+		"/D/Rcoding/Gregs_Screen_data/DayAll-Analysis/050616_batch2.csv",
+		"/D/Rcoding/Gregs_Screen_data/DayAll-Analysis/060616_batch7.csv",
+		"/D/Rcoding/Gregs_Screen_data/Day2/cleanplate-time-v4.php",
+		"/D/Rcoding/Gregs_Screen_data/Day2/050616_batch3.csv",
+		"/D/Rcoding/Gregs_Screen_data/Day2/plates/p0_batch2.csv",
+		"/D/Rcoding/Gregs_Screen_data/Day2/plates/p0_batch3.csv",
+		"/D/Rcoding/Gregs_Screen_data/Day2/plates/p1_batch2.csv",
+		"/D/Rcoding/Gregs_Screen_data/Day2/050616_batch6.csv",
+		"/D/Rcoding/Gregs_Screen_data/Day2/050616_batch5.csv",
+		"/D/Rcoding/Gregs_Screen_data/Day2/050616_batch4.csv",
+		"/D/Rcoding/Gregs_Screen_data/Day2/cleanplate-time-v3.php",
+		"/D/Rcoding/Gregs_Screen_data/Day2/050616_batch5 ratio.csv",
+		"/D/Rcoding/Gregs_Screen_data/Day2/050616_batch6 ratio.csv",
+		"/D/Rcoding/Gregs_Screen_data/Day2/050616_batch4 ratio.csv",
+		"/D/Rcoding/Gregs_Screen_data/Day2/050616_batch3 ratio.csv",
+		"/D/Rcoding/Gregs_Screen_data/Day2/050616_batch2 ratio.csv",
+		"/X/clinicaldb/wp-content/plugins/modal-login/modal-login.php",
+		"/X/clinicaldb/wp-config.php",
+		"/J/clinicaldb/card_json/card_json/json/rename_files.php",
+		"/J/clinicaldb/test.css",
+		"/C/Users/Admin/Desktop/Hits_CCC.txt",
+		"/J/clinicaldb/wp-content/plugins/tag-groups/css/Additional file 3.R",
+		"/D/Rcoding/Ylan Screen/CCC_All/p75_Assay_R2_1-1_T5.csv",
+		"/D/Rcoding/Ylan Screen/Pilot Plate CCC 86/10450.txt",
+		"/D/Rcoding/Ylan Screen/Pilot Plate CCC 86/10448.txt",
+		"/D/Rcoding/Ylan Screen/Pilot Plate CCC 86/10449.txt",
+		"/Y/Projects 2016/Burrows Pili/Pilot Plate CCC 86/10447.txt",
+		"/J/clinicaldb/clinicalData/csv_results/C0001_E_coli.txt",
+		"/J/clinicaldb/wp-content/themes/couper/archive.php",
+		"/J/clinicaldb/wp-content/themes/couper/inc/format/content.php",
+		"/J/clinicaldb/wp-content/themes/couper/inc/function/akmanda-customizer.php",
+		"/J/clinicaldb/wp-content/themes/couper/inc/function/meta-box.php",
+		"/J/clinicaldb/clinicalData/json-list-r.json",
+		"/D/Rcoding/EV36/Bioactives5-10/plates/cleanplate-time.php",
+		"/D/Rcoding/EV36/Bioactives5-10/EV36_2016-05-06 11.56.13.log",
+		"/D/Rcoding/EV36/Bioactives1-5/EV36_2016-04-29 11.27.40.log",
+		"/Y/Projects 2016/EV36/Bioactives 6-10/EV36_2016-05-06 11.56.13.log",
+		"/Y/Projects 2016/EV36/Bioactives 1-5/EV36_2016-04-29 11.27.40.log",
+		"/D/Rcoding/EV36/Bioactives1-5/plates/cleanplate-time.php",
+		"/J/clinicaldb/wp-content/themes/couper/inc/format/loop.php",
+		"/J/clinicaldb/wp-content/themes/couper/inc/format/loop-cstrain.php",
+		"/J/clinicaldb/wp-content/themes/couper/search.php",
+		"/J/clinicaldb/clinicalData/csv_results/all_data_done.csv",
+		"/J/clinicaldb/clinicalData/csv_results/all_data.csv",
+		"/J/clinicaldb/clinicalData/format_add_andrews_data.php",
+		"/J/clinicaldb/wp-content/themes/canary/inc/mondo-config.php",
+		"/J/clinicaldb/wp-content/themes/canary/style.css",
+		"/J/clinicaldb/wp-content/themes/couper/single-cstrain.php",
+		"/J/clinicaldb/pageMake.php",
+		"/J/wacdb/test.php",
+		"/C/Users/Admin/Desktop/index.php",
+		"/J/clinicaldb/clinicalData/raw_data.txt",
+		"/J/clinicaldb/clinicalData/visual/list-concept.css",
+		"/J/clinicaldb/clinicalData/rename_files.php",
+		"/J/clinicaldb/wp-content/plugins/advanced-custom-fields/acf.php",
+		"/J/clinicaldb/wp-content/themes/couper/class-tgm-plugin-activation.php",
+		"/J/clinicaldb/wp-config.php",
+		"/D/Rcoding/Ylan Screen/CCC_62-63R/Pili_04-14-2016 11.19.48.log",
+		"/Y/Projects 2016/Burrows Pili/CCC 75 and 76/Pili_02-11-2016 12.59.28.log",
+		"/D/Rcoding/Ylan Screen/bioactives1-4/plates/Assay1_1-1.csv",
+		"/X/fazdev/bio/wp-content/plugins/wpdatatables/controllers/wdt_functions.php",
+		"/C/Users/Admin/Desktop/wpdatatables/wpdatatables.php",
+		"/X/fazdev/bio/wp-content/plugins/wpdatatables/wpdatatables.php",
+		"/C/Users/Admin/Desktop/listable/style.css",
+		"/S/backups/thewrightlab/xemailform",
+		"/C/Users/Admin/Desktop/Email from The Wright Lab Website.msg",
+		"/D/Rcoding/Ylan Screen/p76-75/plates/p75_1_Assay_R1_1-1.csv",
+		"/D/Rcoding/Ylan Screen/p76-75/plates/All time Points/plates/p75_Assay_R1_1-1_T0",
+		"/D/Rcoding/Ylan Screen/p76-75/plates/All time Points/plates/p75_Assay_R1_1-1_T1",
+		"/D/Rcoding/Ylan Screen/p76-75/plates/All time Points/plates/p75_Assay_R1_1-1_T6",
+		"/D/Rcoding/Ylan Screen/p76-75/plates/All time Points/p75_Assay_R1_1-1.csv",
+		"/D/Rcoding/Ylan Screen/p76-75/plates/All time Points/plates/p75_Assay_R1_1-1_T5",
+		"/D/Rcoding/Ylan Screen/p76-75/plates/All time Points/plates/p75_Assay_R1_1-1_T2",
+		"/D/Rcoding/Ylan Screen/p76-75/Pili_02-17-2016 15.03.47.log",
+		"/D/Rcoding/Ylan Screen/p76-75/plates/Assay_R2_5-5.csv",
+		"/D/Rcoding/Ylan Screen/p76-75/plates/Assay_R1_5-5.csv",
+		"/D/Rcoding/Ylan Screen/p76-75/plates/p76_Assay_R2_4-4.csv",
+		"/D/Rcoding/Ylan Screen/p76-75/plates/p76_Assay_R2_2-2.csv",
+		"/D/Rcoding/Ylan Screen/p76-75/plates/p76_Assay_R1_4-4.csv",
+		"/D/Rcoding/Ylan Screen/p76-75/plates/p76_Assay_R1_2-2.csv",
+		"/D/Rcoding/Ylan Screen/p76-75/plates/p75_Assay_R2_3-3.csv",
+		"/D/Rcoding/Ylan Screen/p76-75/plates/p75_Assay_R2_1-1.csv",
+		"/D/Rcoding/Ylan Screen/p76-75/plates/p75_Assay_R1_3-3.csv"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hideshow",
+			"fontSizes",
+			"reactive",
+			"heightSize",
+			"checkerboardStatsTable",
+			"XYZ",
+			"inity",
+			"scatter3",
+			"scat",
+			"ClpP",
+			"utf8mb4",
+			"utf8mb4_unicode_ci",
+			"dataM",
+			"consoleOutraw",
+			"3D",
+			"type",
+			"submitdata_table",
+			"visua",
+			"showotherplotsa",
+			"plottodownload",
+			"colkey",
+			"btytype2",
+			"aticks",
+			"axtic",
+			"tickty",
+			"showcolkey",
+			"pointtext",
+			"plotType",
+			"pers",
+			"5A5AE0",
+			"DCF462",
+			"FF9166",
+			"dotsize",
+			"gridx",
+			"main",
+			"consoleOut",
+			"clab",
+			"scatterplotThreeOutput",
+			"bgcol",
+			"plot_3D_persp",
+			"p3Dpersp",
+			"normalizeit_Type_two",
+			"process_plate_data(",
+			"z_hi_low_set",
+			"normalizeit_Type_two",
+			"Z fa",
+			"ggMa",
+			"geom_text",
+			"iq<-",
+			"iq",
+			"plables_H",
+			"Repli",
+			"sraw_plot",
+			"dat",
+			"consoleOut",
+			"\\s{1,10}",
+			"\\t",
+			"D1D2av",
+			"consoleOut",
+			"drawReplica",
+			"Well",
+			"nplr",
+			"B",
+			"maxV",
+			"npars",
+			"survProp",
+			"isProp",
+			"png",
+			"toLog",
+			"ifelse",
+			"Title",
+			"\\t",
+			"IC",
+			"exampleInput",
+			".addPoi",
+			".addGOF",
+			".addCurve",
+			"buildSummary(",
+			"summary",
+			"model-",
+			"checkFile",
+			"modelNames",
+			"getColors",
+			"inputFile",
+			"header",
+			"fname",
+			"showAsLog",
+			"pSize",
+			"input",
+			"data",
+			"input",
+			"toLog",
+			"message",
+			"exampleInput",
+			"plot",
+			"file1",
+			"welcomeImage",
+			"downloadData",
+			"file1",
+			"group",
+			"X2.B03.1.p1_",
+			".1.csv",
+			"X1.A03.ctrl.",
+			"\\t",
+			"getX",
+			"plot",
+			"getAUC",
+			"getX",
+			"Surv",
+			"Survi",
+			"survi",
+			"matchuid_x",
+			" consoleOut",
+			"consoleOut",
+			"\\n",
+			"CID: ",
+			"\\n",
+			"file2",
+			"file1",
+			"\\t",
+			"grid",
+			"sraw_plot",
+			"show",
+			"subset",
+			"dataOutFinal_table",
+			"showrw_plot",
+			"output$raw_n_norms",
+			"consoleOut("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"inity,trans",
+			"Bsub",
+			"utf8",
+			"utf8_unicode_ci",
+			"33CC99",
+			"2F5EED",
+			"FF337A",
+			"\\t",
+			",",
+			"",
+			",",
+			"\" target=\"_blank\">Pubchem Link</a><br/>\\n",
+			"CID: <a href=\"http://pubchem.ncbi.nlm.nih.gov/substance/",
+			",",
+			"#dataOutFinal_table",
+			"#output$raw_n_norms",
+			"output$raw_n_norms<-renderPrint({dataOutFinal_table})\n        # output$raw_n_norms",
+			"raw_n_norms",
+			"pageLength = 15), filter = 'top', rownames = FALSE,",
+			"(as.numeric(R2), as.numeric(R1))",
+			"size = rel(1)",
+			"",
+			",",
+			"",
+			",",
+			"",
+			"\\n",
+			",",
+			"pty_wells",
+			"\",",
+			"=>\"",
+			",\"",
+			"\"=>",
+			"meropenem",
+			"",
+			"jQuery",
+			"s-d",
+			"s-h",
+			"\"); ?>",
+			"the_field(\"",
+			"\",\"",
+			"\\r",
+			",",
+			"",
+			",",
+			"\\n",
+			"\".\"\\t\".\"",
+			",",
+			"\".\"\\t\".\"",
+			"\"\\t\"",
+			"strain",
+			"",
+			",",
+			".",
+			"",
+			"\\t",
+			"\\s",
+			",",
+			"C",
+			"",
+			"input$heatmap_color_val",
+			"",
+			" | ",
+			"RdYlGn",
+			"-t :",
+			"-b : Break file to seperate plates give T1 T2... naming \\n -o :",
+			"-b : Break file to seperate plates give T1 T2... naming\\n -o :",
+			"bioactivesNew",
+			"#consoleOut",
+			"\\n",
+			"\",\"",
+			"",
+			", ",
+			",",
+			" ",
+			"        <dt class=\"<?php echo $this->field->name.' '.$empty_class?>\"><?php $this->field->print_label() ?></dt>\n        <dd name=\"<?php echo $this->field->name; ?>\" class=\"<?php echo $this->field->name.' '.$empty_class?>\"><?php $this->field->print_value(); ?></dd>",
+			"        <dt class=\"<?php echo $this->field->name.' '.$empty_class?>\"><?php $this->field->print_label() ?></dt>\n        <dd name=\"<?php echo $this->field->name; ?>\" class=\"<?php echo $this->field->name.' '.$empty_class?>\"><?php $this->field->print_value(); ?></dd>\n        ",
+			"",
+			"btn-primary",
+			"<a class=\"tool_link\" href=\"",
+			"\",\"",
+			","
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server.R",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2565,
+								2574
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/R/R.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1073.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Make3DPlotFunctions.R",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14006,
+								14006
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/R/R.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 514.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "ui.R",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11219,
+								11219
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/R/R.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 153.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/Rcoding/Beth_WAC96well/Aug5/format/Controls.log",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1371,
+								1371
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Assay-A_12,12,ClpP read,08/05/2016 11:08:06",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "testData.tab",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1588,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1588,
+								1588
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.509708737864,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "plot3D_project.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 135.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
